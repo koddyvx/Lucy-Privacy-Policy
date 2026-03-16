@@ -1,5 +1,5 @@
 Privacy Policy for Lucy Discord Bot
-​Last Updated: [15/9/2025]
+​Last Updated: [16/9/2026]
 
 ​1. Introduction
 ​This Privacy Policy outlines how Lucy ("the Bot") collects, uses, and protects information from its users and the Discord servers where it is active. By using Lucy, you agree to the terms described in this policy.
